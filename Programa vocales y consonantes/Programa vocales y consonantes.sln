@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa vocales y consonantes", "Programa vocales y consonantes\Programa vocales y consonantes.csproj", "{FF5D22FB-16D0-47F1-9D31-9500AD00BCFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5D22FB-16D0-47F1-9D31-9500AD00BCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5D22FB-16D0-47F1-9D31-9500AD00BCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5D22FB-16D0-47F1-9D31-9500AD00BCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5D22FB-16D0-47F1-9D31-9500AD00BCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
